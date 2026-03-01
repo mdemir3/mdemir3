@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hikmet%20Demir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20SDET%20%C2%B7%20AI%20Engineer%20%C2%B7%20Automation%20Architect&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hikmet%20Demir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Automation%20Architect&descAlignY=55&descSize=16" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+write+their+own+tests;7%2B+years+turning+QA+into+engineering;Playwright+%C2%B7+CrewAI+%C2%B7+Python+%C2%B7+Java;Automation+that+thinks+for+itself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+think+and+act;Turning+ideas+into+autonomous+systems;CrewAI+%C2%B7+MCP+%C2%B7+Playwright+%C2%B7+Python;One+developer.+One+AI+crew.+Infinite+leverage.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,13 +20,13 @@
 
 ## 🧠 Who I Am
 
-I'm an engineer obsessed with one question:
+I don't just write code. I build **systems that think**.
 
-> **"What if AI could automate the automators?"**
+7+ years of engineering experience gave me deep roots in automation, distributed systems, and software quality. But I'm not stopping there — I'm pushing into the frontier of **autonomous AI agents** that can reason, plan, and execute complex tasks across any domain.
 
-I've spent 7+ years building test automation systems across Web, API, Mobile and Microservices. Now I'm taking that further — building **multi-agent AI systems** that generate, run, and heal their own tests.
+Whether it's an AI that generates its own test suite, an agent that reads your codebase and suggests architecture improvements, or a multi-agent system that runs an entire workflow while you sleep — I'm building the tools that make **one developer feel like a team of ten**.
 
-I work at the intersection of **QA engineering** and **artificial intelligence**. My projects range from AI-powered test generators to self-healing frameworks to MCP servers that give AI agents real browser superpowers.
+I build at the intersection of **AI**, **developer tooling**, and **systems thinking**.
 
 <br clear="right"/>
 
@@ -39,7 +39,7 @@ I work at the intersection of **QA engineering** and **artificial intelligence**
 <td width="50%">
 
 ### 🧪 AI Test Automation Agent
-A crew of AI agents that take a URL and auto-generate a complete test suite — locators, test cases, Gherkin feature files, and step definitions. Zero manual effort.
+A crew of AI agents that takes a URL and auto-generates a complete test suite — locators, test cases, Gherkin feature files, and step definitions. Zero manual effort.
 
 `CrewAI` `Ollama` `Playwright` `Behave` `MCP` `Python`
 
@@ -47,7 +47,7 @@ A crew of AI agents that take a URL and auto-generate a complete test suite — 
 <td width="50%">
 
 ### 🔮 Self-Healing Framework
-ML-powered locator recovery system that detects broken selectors and heals them automatically without human intervention.
+ML-powered locator recovery that detects broken selectors and heals them automatically — no human intervention needed.
 
 `Python` `Machine Learning` `Selenium` `Playwright`
 
@@ -57,52 +57,21 @@ ML-powered locator recovery system that detects broken selectors and heals them 
 <td width="50%">
 
 ### 🌐 MCP Browser Server
-A Model Context Protocol server that gives AI agents real browser capabilities — scan pages, extract elements, interact with UI.
+A Model Context Protocol server that gives AI agents real browser superpowers — scan pages, extract elements, interact with any UI.
 
 `MCP` `Playwright` `FastMCP` `Python`
 
 </td>
 <td width="50%">
 
-### 🚀 More Coming Soon
-Building at the edge of AI + QA. New projects dropping regularly.
+### 🌍 The Bigger Vision
+AI that doesn't just assist — but **creates, decides, and ships**. Building autonomous systems that make a single developer as powerful as an entire team.
 
-`AI Agents` `Test Automation` `Developer Tools`
+`AI Agents` `Autonomous Systems` `Developer Tools` `Open Source`
 
 </td>
 </tr>
 </table>
-
----
-
-## ⚡ How The AI Test Agent Works
-
-```
- You type a URL
-       │
-       ▼
- ┌─────────────────────────────────────────────────┐
- │              AI AGENT CREW                      │
- │                                                 │
- │  🔍  Browser Scanner  ──▶  scans page elements  │
- │       │                                         │
- │       ▼                                         │
- │  📍  Locator Writer   ──▶  writes locators.py   │
- │       │                                         │
- │       ▼                                         │
- │  📋  Test Case Writer ──▶  writes test_cases.md │
- │       │                                         │
- │       ▼                                         │
- │  📄  Feature Writer   ──▶  writes .feature file │
- │       │                                         │
- │       ▼                                         │
- │  🐍  Step Writer      ──▶  writes steps.py      │
- └─────────────────────────────────────────────────┘
-       │
-       ▼
-  Complete test suite in minutes ⚡
-  Works on ANY web page
-```
 
 ---
 
@@ -118,14 +87,13 @@ Building at the edge of AI + QA. New projects dropping regularly.
 ![MCP](https://img.shields.io/badge/MCP_Protocol-7B2FBE?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Test Automation**
+**Automation**
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
 ![Behave](https://img.shields.io/badge/Behave_BDD-00897B?style=for-the-badge&logo=cucumber&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
 **Languages**
 
@@ -146,33 +114,47 @@ Building at the edge of AI + QA. New projects dropping regularly.
 
 ---
 
-## 📊 Stats
+## 🌍 The Vision
 
-<div align="center">
+> Most people use AI as a tool.
+> I'm building AI as a **workforce**.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemir3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff" />
+We are at the beginning of the biggest shift in software history. Not AI that autocompletes your code — but AI that **thinks in systems**, **acts with purpose**, and **ships real products**.
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemir3&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
+Every project I build moves toward one north star:
 
-</div>
+```
+A world where a single developer with the right AI agents
+can build what once required an entire team.
 
----
+Not AI that helps you type faster.
+AI that architects, builds, tests, ships and iterates.
+Autonomously. Intelligently. Relentlessly.
 
-## 🎯 2026 Goals
+That's what I'm building toward.
+```
+
+**The roadmap in my head:**
 
 ```python
-goals = {
-    "ship": [
-        "AI Test Agent v1.0 — public release",
-        "Self-healing locator library",
-        "MCP browser server — open source",
+vision = {
+    "now": [
+        "AI agents that write and run their own tests",
+        "MCP servers that give AI real-world capabilities",
     ],
-    "learn": [
-        "Deeper multi-agent architectures",
-        "LLM fine-tuning for QA tasks",
-        "Agentic CI/CD pipelines",
+    "next": [
+        "AI agent that reads any codebase and explains it like a senior dev",
+        "Personal AI that manages your calendar, tasks and priorities autonomously",
+        "AI pair programmer that doesn't just suggest — it opens PRs",
+        "Voice-controlled AI agent that controls your entire computer",
     ],
-    "impact": "Make every QA engineer 10x faster with AI"
+    "further": [
+        "Multi-agent system that takes a startup idea and ships an MVP",
+        "AI that monitors production, detects anomalies, writes the fix and opens a PR",
+        "Autonomous research agent — reads papers, summarizes, connects the dots",
+        "AI financial agent — tracks spending, forecasts, suggests decisions",
+    ],
+    "dream": "One person. One AI crew. Infinite leverage."
 }
 ```
 
