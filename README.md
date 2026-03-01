@@ -134,29 +134,7 @@ Autonomously. Intelligently. Relentlessly.
 That's what I'm building toward.
 ```
 
-**The roadmap in my head:**
 
-```python
-vision = {
-    "now": [
-        "AI agents that write and run their own tests",
-        "MCP servers that give AI real-world capabilities",
-    ],
-    "next": [
-        "AI agent that reads any codebase and explains it like a senior dev",
-        "Personal AI that manages your calendar, tasks and priorities autonomously",
-        "AI pair programmer that doesn't just suggest — it opens PRs",
-        "Voice-controlled AI agent that controls your entire computer",
-    ],
-    "further": [
-        "Multi-agent system that takes a startup idea and ships an MVP",
-        "AI that monitors production, detects anomalies, writes the fix and opens a PR",
-        "Autonomous research agent — reads papers, summarizes, connects the dots",
-        "AI financial agent — tracks spending, forecasts, suggests decisions",
-    ],
-    "dream": "One person. One AI crew. Infinite leverage."
-}
-```
 
 ---
 
