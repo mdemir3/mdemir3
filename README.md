@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hikmet%20Demir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Automation%20Architect&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hikmet%20Demir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Senior%20SDET%20%C2%B7%20Automation%20Architect" />
 
 <br/>
 
@@ -8,7 +8,6 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/hikmetdemir2424@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hikmetdemir2424@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmetdemir)
 [![Location](https://img.shields.io/badge/Durham%2C_NC_🌍-20232A?style=for-the-badge)](https://github.com/mdemir3)
 
