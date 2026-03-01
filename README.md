@@ -41,7 +41,7 @@ I build at the intersection of **AI**, **developer tooling**, and **systems thin
 ### 🧪 AI Test Automation Agent
 A crew of AI agents that takes a URL and auto-generates a complete test suite — locators, test cases, Gherkin feature files, and step definitions. Zero manual effort.
 
-`CrewAI` `Ollama` `Playwright` `Behave` `MCP` `Python`
+`CrewAI` `Ollama` `Playwright` `Behave` `MCP` `Python` `OpenAI` `Claude`
 
 </td>
 <td width="50%">
